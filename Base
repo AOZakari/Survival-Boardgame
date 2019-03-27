@@ -1,0 +1,30 @@
+/*
+Zones:
+    Types de terrain:
+    Tech
+    Pollution[]
+    Population[]
+    Ressources[]
+    Besoins
+
+Ressources:
+    Energ:    
+	Clean:     
+    	Dirty.
+	
+
+Population:
+    Types
+
+Joueur:
+    Zones
+    $$$
+
+Catastrophes:
+    Nat
+    Poli
+
+Pollution:
+    Water, air ...etc
+
+*/ 
